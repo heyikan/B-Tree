@@ -1,7 +1,7 @@
 // This Program is basic implementation of B-Tree.
 //	* Program includes following facilities:
 //	* Insertion: Before insertion process, program ask question to capacity order.
-//	             To load given input (lab7.txt) file, press [1].
+//	             To load given input (plates.txt) file, press [1].
 //				 For given input, you should select the capacity order at least 20.
 //					else processing is being too long.
 //  * Printing:  Program prints all the key as formatting.
