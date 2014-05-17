@@ -296,7 +296,7 @@ void btree::displaytree(int search,string str)
 
 int main()
 {
-		ifstream inf("lab7.txt");    
+	ifstream inf("plates.txt");    
         int n,i,key;
         string x;
         node *p;
